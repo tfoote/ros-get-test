@@ -4,5 +4,5 @@
   </description>
   <author>Tully Foote</author>
   <license>BSD</license>
-
+  <depend stack="ros"/>
 </stack>
